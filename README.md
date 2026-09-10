@@ -151,7 +151,7 @@ KeepRemind lets you save links from platforms like YouTube, Instagram, Reddit, T
 ## ✅ TaskFlow
 
 <p align="center">
-  <img src="assets/TaskFlow.png" width="90%" alt="TaskFlow Preview">
+  <img src="assets/TaskFlow-preview.png" width="90%" alt="TaskFlow Preview">
 </p>
 
 ### 💡 What is it?
