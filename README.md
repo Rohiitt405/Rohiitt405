@@ -6,17 +6,26 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Flutter+Developer+%F0%9F%93%B1;Mobile+%26+Software+Developer+%F0%9F%92%BB;Building+Ideas+into+Applications+%F0%9F%9A%80;Always+Learning+%26+Building+%F0%9F%8C%B1" alt="Typing SVG" />
 
-<p>
+---
+<div align="center">
+
   <a href="https://github.com/Rohiitt405">
-    <img src="https://img.shields.io/badge/GitHub-Rohiitt405-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-Rohiitt405-181717?style=for-the-badge&logo=github" /> 
   </a>
+
   <a href="https://linkedin.com/in/rohitojha405">
     <img src="https://img.shields.io/badge/LinkedIn-Rohit%20Ojha-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
+
   <a href="https://leetcode.com/u/rohiitt/">
-    <img src="https://img.shields.io/badge/LeetCode-228%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+    <img src="https://img.shields.io/badge/LeetCode-rohiitt-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
-</p>
+
+  <a href="mailto:rohiitt405@gmail.com">
+    <img src="https://img.shields.io/badge/Email-rohiitt405-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+</div>
 
 <img src="https://komarev.com/ghpvc/?username=Rohiitt405&style=for-the-badge&color=blueviolet" alt="Profile Views" />
 
@@ -247,42 +256,14 @@ I enjoy working on projects where **mobile development, APIs, cloud services, AI
 
 ---
 
-# 🎯 Goals
+# ♟️ Beyond Coding
 
-* [ ] 🚀 Build more production-ready Flutter applications
-* [ ] 📱 Get better at advanced Flutter and Dart
-* [ ] 🏗️ Improve my understanding of software architecture
-* [ ] 🔥 Build more Firebase-powered applications
-* [ ] 🤖 Experiment with AI features in mobile apps
-* [ ] 🧠 Solve more DSA problems
-* [ ] 🌐 Improve my backend development skills
-* [ ] 🤝 Contribute to open-source projects
-* [ ] 📦 Publish more applications
-* [ ] 🚀 Build software used by real users
+When I'm not coding:
 
----
-
-# 🤝 Let's Connect
-
-<div align="center">
-
-  <a href="https://github.com/Rohiitt405">
-    <img src="https://img.shields.io/badge/GitHub-Rohiitt405-181717?style=for-the-badge&logo=github" /> 
-  </a>
-
-  <a href="https://linkedin.com/in/rohitojha405">
-    <img src="https://img.shields.io/badge/LinkedIn-Rohit%20Ojha-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-
-  <a href="https://leetcode.com/u/rohiitt/">
-    <img src="https://img.shields.io/badge/LeetCode-rohiitt-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-
-  <a href="mailto:rohiitt405@gmail.com">
-    <img src="https://img.shields.io/badge/Email-rohiitt405-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
-</div>
+* ♟️ I enjoy playing chess
+* 🎵 I listen to music
+* 🧠 I practice programming problems
+* 🚀 I experiment with new development technologies
 
 ---
 
