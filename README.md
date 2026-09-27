@@ -188,14 +188,15 @@ You can create tasks manually or extract text from an image and turn it into a t
 
 ---
 
-# 📊 GitHub Activity
+# 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Rohiitt405&theme=tokyonight&hide_border=true" />
+![](https://github-readme-stats.shion.dev/api?username=rohiitt405&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=rohiitt405&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=rohiitt405&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
-
 ---
 
 # 🐍 Contribution Snake
