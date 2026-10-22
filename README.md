@@ -73,7 +73,7 @@ I like taking an idea, turning it into code, debugging it when things break, and
 ## 💻 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,php,javascript,dart" />
+  <img src="https://skillicons.dev/icons?i=java,c,cpp,php,javascript,dart" />
 </p>
 
 ## 📱 Mobile Development
@@ -83,6 +83,10 @@ I like taking an idea, turning it into code, debugging it when things break, and
 </p>
 
 `Flutter` · `Dart` · `Android` · `Provider` · `Riverpod`
+
+### 🤖 Generative AI & Vector Databases
+
+`Generative AI` · `RAG` · `MCP` · `LLMs` · `Pinecone` · `Vector Databases`
 
 ## 🌐 Web & Backend
 
