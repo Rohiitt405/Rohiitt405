@@ -73,7 +73,7 @@ I like taking an idea, turning it into code, debugging it when things break, and
 ## 💻 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,c,cpp,php,javascript,dart" />
+  <img src="https://skillicons.dev/icons?i=java,c,cpp,php,javascript,dart,mysql" />
 </p>
 
 ## 📱 Mobile Development
@@ -107,7 +107,7 @@ I like taking an idea, turning it into code, debugging it when things break, and
 ## 🔧 Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,idea" />
   <img src="assets/Antigravity.png" width="48" height="48" alt="Google Antigravity" />
 </p>
 
@@ -201,6 +201,7 @@ You can create tasks manually or extract text from an image and turn it into a t
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=rohiitt405&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
+
 ---
 
 # 🐍 Contribution Snake
